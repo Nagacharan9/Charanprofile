@@ -97,7 +97,7 @@
 
   <section>
     <h2>Contact</h2>
- <p>You can reach me via email: <a href="mailto:charannaga48.com" style="color:#00e0c6;">charannaga48.com</a></p>
+ <p>You can reach me via email: <a href="mailto:charannaga48.com" style="color:#00e0c6;">charannaga48@gmail.com</a></p>
   </section>
 </main>
 
